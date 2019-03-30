@@ -23,7 +23,7 @@ date_regexps = [
 
 def valid_year(year):
     """Check if number is a valid year"""
-    return 1920 <= year < 2030
+    return 1895 <= year < 2030
 
 
 def _is_int(string):
